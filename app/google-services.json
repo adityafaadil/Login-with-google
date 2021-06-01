@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1092413307452",
+    "project_id": "mylogin-52605",
+    "storage_bucket": "mylogin-52605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092413307452:android:a4ecb17b338f025c2ea139",
+        "android_client_info": {
+          "package_name": "com.dicoding.logingoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092413307452-bl9r0ejfoiesak9id6d4tcod6b816cj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAaPuU7FnEX8dknugMY-5zYymKWDCY5x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092413307452-bl9r0ejfoiesak9id6d4tcod6b816cj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092413307452:android:74b11845359d31842ea139",
+        "android_client_info": {
+          "package_name": "com.dicoding.mylogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092413307452-o399lmbjnaqjhp73kerigkq9kl3r7bli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dicoding.mylogin",
+            "certificate_hash": "af306bfa922582f019334a562698093fc1ab1717"
+          }
+        },
+        {
+          "client_id": "1092413307452-bl9r0ejfoiesak9id6d4tcod6b816cj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAaPuU7FnEX8dknugMY-5zYymKWDCY5x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092413307452-bl9r0ejfoiesak9id6d4tcod6b816cj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
